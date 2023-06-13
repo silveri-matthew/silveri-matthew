@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [TBA ](https://github.com/)
 - <b>R</b>
-  - [Math Functions within R](https://github.com/silveri-matthew/FunctionsInR)
+  - [Stats within R](https://github.com/silveri-matthew/FunctionsInR)
 - <b>RapidMiner</b>
   - [Predicting Bank Default Loans](https://github.com/silveri-matthew/RapidMinerPredictiveBankDeafult)
 - <b>SQL</b>
