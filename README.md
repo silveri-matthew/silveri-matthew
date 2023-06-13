@@ -10,6 +10,7 @@
   - [TBA ](https://github.com/)
 - <b>PowerBI</b>
   - [Bike Sales and Profit](https://github.com/silveri-matthew/PowerBIBikeSales)
+  - [Vehicles Sales by City](https://github.com/silveri-matthew/PowerBIBikeSales)
   - [Michigan Covid Cases Mapping](https://github.com/silveri-matthew/PowerBICovidCasesMI)
 - <b>Python</b>
   - [TBA ](https://github.com/)
