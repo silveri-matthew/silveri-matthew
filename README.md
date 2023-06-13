@@ -11,13 +11,13 @@
 - <b>PowerBI</b>
   - [TBA ](https://github.com/)
 - <b>Python</b>
-  - [TBA (Encrypter)](https://github.com/)
+  - [TBA ](https://github.com/)
 - <b>R</b>
-  - [TBA (Datastructures and Algorithms Demo)](https://github.com/)
+  - [TBA ](https://github.com/)
 - <b>RapidMiner</b>
   - [Predicting Bank Default Loans](https://github.com/silveri-matthew/PredictiveBankDeafult)
 - <b>SQL</b>
-  - [TBA (Datastructures and Algorithms Demo)](https://github.com/)
+  - [TBA ](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
