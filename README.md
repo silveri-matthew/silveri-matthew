@@ -4,7 +4,9 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b>Excel Practice</b>
+- <b>Excel Formulas</b>
+  - [TBA ](https://github.com/)
+- <b>Excel VBA</b>
   - [TBA ](https://github.com/)
 - <b>PowerBI</b>
   - [TBA ](https://github.com/)
