@@ -9,7 +9,7 @@
 - <b>Excel VBA</b>
   - [TBA ](https://github.com/)
 - <b>PowerBI</b>
-  - [TBA ](https://github.com/)
+  - [Michigan Covid Cases Mapping](https://github.com/silveri-matthew/PowerBICovidCasesMI)
 - <b>Python</b>
   - [TBA ](https://github.com/)
 - <b>R</b>
