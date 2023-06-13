@@ -5,15 +5,15 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Excel Formulas</b>
-  - [TBA ](https://github.com/)
+  - [Not uploaded yet](https://github.com/)
 - <b>Excel VBA</b>
-  - [TBA ](https://github.com/)
+  - [Not uploaded yet ](https://github.com/)
 - <b>PowerBI</b>
   - [Bike Sales and Profit](https://github.com/silveri-matthew/PowerBIBikeSales)
   - [Vehicles Sales by City](https://github.com/silveri-matthew/PowerBIBikeSales)
   - [Michigan Covid Cases Mapping](https://github.com/silveri-matthew/PowerBICovidCasesMI)
 - <b>Python</b>
-  - [TBA ](https://github.com/)
+  - [Not uploaded yet ](https://github.com/)
 - <b>R</b>
   - [Stats within R](https://github.com/silveri-matthew/FunctionsInR)
 - <b>RapidMiner</b>
