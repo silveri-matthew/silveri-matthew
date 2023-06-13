@@ -15,7 +15,7 @@
 - <b>R</b>
   - [TBA ](https://github.com/)
 - <b>RapidMiner</b>
-  - [Predicting Bank Default Loans](https://github.com/silveri-matthew/PredictiveBankDeafult)
+  - [Predicting Bank Default Loans](https://github.com/silveri-matthew/RapidMinerPredictiveBankDeafult)
 - <b>SQL</b>
   - [TBA ](https://github.com/)
 
