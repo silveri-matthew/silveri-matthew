@@ -1,24 +1,19 @@
 <h1>Hi, I'm Matthew! <br/><a href="https://github.com/silveri-matthew">Aspiring Data Analyst</a> and <a href="https://www.linkedin.com/in/matthew-silveri/">Business Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Projects:</h2>
 
 - <b>Excel Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [TBA ](https://github.com/)
 - <b>PowerBI</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [TBA ](https://github.com/)
 - <b>Python</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [TBA (Encrypter)](https://github.com/)
 - <b>R</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [TBA (Datastructures and Algorithms Demo)](https://github.com/)
 - <b>RapidMiner</b>
   - [Predicting Bank Default Loans](https://github.com/silveri-matthew/PredictiveBankDeafult)
 - <b>SQL</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [TBA (Datastructures and Algorithms Demo)](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
