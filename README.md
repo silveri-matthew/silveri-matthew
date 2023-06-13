@@ -1,5 +1,7 @@
 <h1>Hi, I'm Matthew! <br/><a href="https://github.com/silveri-matthew">Aspiring Data Analyst</a> and <a href="https://www.linkedin.com/in/matthew-silveri/">Business Professional</a></h1>
 
+<h2> The page is still a work in progress!</h2>
+
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Excel Practice</b>
