@@ -17,7 +17,7 @@
 - <b>RapidMiner</b>
   - [Predicting Bank Default Loans](https://github.com/silveri-matthew/RapidMinerPredictiveBankDeafult)
 - <b>SQL</b>
-  - [TBA ](https://github.com/)
+  - [SQL Mock Skype User Exercise](https://github.com/silveri-matthew/SQLSkypeExercise)
 
 <h2> 🤳 Connect with me:</h2>
 
