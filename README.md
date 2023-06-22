@@ -11,7 +11,7 @@
   - [Vehicles Sales by City (Soon)](https://github.com/silveri-matthew/)
   - [Michigan Covid Cases Mapping](https://github.com/silveri-matthew/PowerBICovidCasesMI)
 - <b>Python</b>
-  - [Not uploaded yet ](https://github.com/silveri-matthew/PythonPySpark)
+  - [PySpark Package and Logistic Regression](https://github.com/silveri-matthew/PythonPySpark)
 - <b>R</b>
   - [Stats within R](https://github.com/silveri-matthew/FunctionsInR)
 - <b>RapidMiner</b>
