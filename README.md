@@ -15,7 +15,7 @@
 - <b>R</b>
   - [Stats within R](https://github.com/silveri-matthew/FunctionsInR)
 - <b>RapidMiner</b>
-  - [Predicting Bank Default Loans](https://github.com/silveri-matthew/RapidMinerPredictiveBankDeafult)
+  - [Predicting Bank Default Loans (A/B Testing)](https://github.com/silveri-matthew/RapidMinerPredictiveBankDeafult)
 - <b>SQL</b>
   - [SQL Mock Skype User Exercise](https://github.com/silveri-matthew/SQLSkypeExercise)
 
