@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b>Excel Formulas</b>
+- <b>Excel</b>
   - [Not uploaded yet](https://github.com/)
 - <b>Excel VBA</b>
   - [Not uploaded yet ](https://github.com/)
