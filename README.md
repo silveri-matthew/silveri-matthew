@@ -8,7 +8,7 @@
   - [Not uploaded yet ](https://github.com/)
 - <b>PowerBI</b>
   - [Bike Sales and Profit](https://github.com/silveri-matthew/PowerBIBikeSales)
-  - [Vehicles Sales by City (Soon)](https://github.com/silveri-matthew/)
+  - [Vehicles Sales by City](https://github.com/silveri-matthew/VehicleSalebyCity)
   - [Michigan Covid Cases Mapping](https://github.com/silveri-matthew/PowerBICovidCasesMI)
 - <b>Python</b>
   - [PySpark Package and Logistic Regression](https://github.com/silveri-matthew/PythonPySpark)
